@@ -1,0 +1,43 @@
+#logo{
+    width: 70px;
+}
+
+#myNav{
+    background-color: rgba(235, 229, 229, 0.562) !important;
+    height: 5rem!important;
+    padding: .5rem !important;
+}
+
+
+#logo{
+    margin-left: 6rem;
+}
+
+.myDropdown{
+    margin-right: 7rem;
+}
+
+.myFavourites{
+   background-color: rgba(99, 97, 97, 0.651) !important;
+   width: 15.5rem!important;
+  
+}
+
+
+ul, li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#myLiList:hover, #myLiList::selection{
+    background-color: rgba(3, 3, 3, 0.651) !important;
+}
+
+.fa-trash-alt{
+    cursor: pointer;
+}
+
+.fa-trash-alt:hover, .fa-trash-alt::selection{
+    color: red;
+}

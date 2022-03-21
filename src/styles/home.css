@@ -1,0 +1,19 @@
+body{
+
+    background: rgb(39, 36, 36) url('../img/negro estrellas 1.png');
+
+}
+
+.container{
+    margin-top: 3rem!important;
+    margin-bottom: 30px;
+}
+
+
+.myScroll{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    background-color: rgba(99, 97, 97, 0.651);
+    align-items: center;
+    padding: 2rem 1rem;
+}

@@ -1,0 +1,13 @@
+
+footer{
+    background-color: rgba(231, 219, 219, 0.562);
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #ffc107
+}

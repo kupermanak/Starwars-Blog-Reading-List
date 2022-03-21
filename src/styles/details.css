@@ -1,0 +1,14 @@
+.myBox{
+    background-color: rgba(99, 97, 97, 0.349);
+    border-radius: 1rem;
+    padding: 2rem 3rem;
+    margin-bottom: 30px;
+}
+
+#imgCharacter{
+    width: 20rem;
+}
+
+#imgvehicle{
+    width: 12.5rem;
+}

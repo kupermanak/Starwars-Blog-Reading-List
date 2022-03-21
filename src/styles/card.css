@@ -1,0 +1,13 @@
+.myCard{
+    background-color: aliceblue!important;
+}
+
+.fa-heart,
+.icon {
+    color: #ffc107;
+}
+
+.fa-heart:hover, .icon:hover{
+    background-color: #ffc107;
+    color: white;
+}
